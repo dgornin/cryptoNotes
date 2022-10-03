@@ -1,0 +1,11 @@
+eth/node_modules
+eth/.env
+eth/coverage
+eth/coverage.json
+eth/typechain
+eth/typechain-types
+
+#Hardhat files
+eth/cache
+eth/artifacts
+
