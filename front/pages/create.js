@@ -27,7 +27,7 @@ export default function Check() {
       setSeccessMessage("Hash " + response.hash);
     } catch (error) {
       console.error(error);
-      setErrorMessage("You already have note, chage it from profile");
+      setErrorMessage("You already have not, chage it from profile. Or you don't have metamsk");
     }
   };
 
